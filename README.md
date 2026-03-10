@@ -4,3 +4,9 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 Nama : Moch. Hasbi Latif 
 NPM : 2313020079
+
+## Tools yang digunakan
+
+- Git
+- GitHub
+- Visual Studio Code
